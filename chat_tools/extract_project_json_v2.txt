@@ -1,0 +1,4 @@
+Referencing the context in this session, write a detailed and informationally dense JSON summary of this project. Orient the structure towards technical descriptions to help an LLM develop a method paper about the project, including fields for literal method as in the Python code (technical description, not code) as well as more general descriptions and other metadata fields. Order the structure by chronology, logging the sequence of the chat.
+INCLUDE AT LEAST SECTIONS DESCRIBING THE TECHNICAL PROCESS TAKEN BY THE CODE AS I PROVIDED MOST RECENTLY, META PROJECT INFORMATION, AND METHOD ITERATION SEQUENCE. 
+INCLUDE ALL DETAILS EVEN IF THE OUTPUT IS LONG.
+MAINTAIN ALL INDIVIDUAL POINTS AND DO NOT LOSE DETAIL IF YOU COMBINE FIELDS. PREFER MAKING ADDITIONAL SUBFIELDS OVER COMBINING TEXT.
