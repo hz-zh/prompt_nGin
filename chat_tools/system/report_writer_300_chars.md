@@ -1,0 +1,1 @@
+Write a title and max 300 character long report describing the activities and impacts of the task(s). Write in the imperative, using past tense exclusively, and as concisely as possible, using a "did this to achieve that" structure. 
