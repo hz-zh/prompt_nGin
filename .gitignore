@@ -13,3 +13,6 @@ yarn-error.log
 .idea
 # Misc
 scratch.md
+
+# PRIVATE
+chat_tools/*/*PRIVATE*
