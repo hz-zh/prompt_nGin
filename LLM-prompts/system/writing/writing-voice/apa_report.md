@@ -2,7 +2,7 @@
 
 **Instructions:**
 
-* **Embrace Active Voice and Use "I" (APA Style):**
+* **Embrace Active Voice and Use "I" (as well as selective passive voice) (APA Style):**
   * **Crucially, use "I" as the subject when describing your actions in the research process.**  This aligns with APA style for clarity and directness in capstone reports written in the first person.
   * Instead of: "The survey was administered." (Passive)
   * Use: "**I** administered the survey." (Active, APA Preferred)
